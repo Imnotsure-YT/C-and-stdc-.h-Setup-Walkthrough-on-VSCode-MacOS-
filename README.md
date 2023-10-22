@@ -43,7 +43,7 @@ Installing Homebrew:
      Check again to make sure that you have moved it into the correct file directory.
 
   4. After GCC is installed, go to VSCode again. Go into the IntelliSense Configurations tab, scroll down to "Compiler Configuration" and select 
-     `usr/bin/g++13`. This will make sure that you are using the correct compiler.
+     `usr/bin/g++-13`. This will make sure that you are using the correct compiler.
 
 -------Creating stdc++.h-------
 
