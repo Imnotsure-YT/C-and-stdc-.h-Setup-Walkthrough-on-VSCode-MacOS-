@@ -35,7 +35,7 @@ GCC is one of the only C++ compilers that support bit/stdc++.h header files. I u
 Installing Homebrew:
 
   1. Run `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"` on your system terminal.
-     This is the installation script for homebrew.
+     This runs the installation script for homebrew.
      
   2. Follow the installation instructions to move homebrew into the right file path. You need to run two more commands to do this.
   
