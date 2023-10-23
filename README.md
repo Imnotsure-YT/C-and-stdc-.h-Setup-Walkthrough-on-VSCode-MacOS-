@@ -13,7 +13,7 @@ The latter is particularly important for changing your IntelliSense configuratio
 
 -------Downloading Clang-------
 
-Clang is one compiler that works well with VSCode. In case you do not want to use the stdc++.h header file in your code, you could follow this guide:
+Clang is one compiler that works well with VSCode. In case you do not want to use the stdc++.h header file in your code, you could follow this guide to set up Clang independently:
 
 https://code.visualstudio.com/docs/cpp/config-clang-mac
 
